@@ -26,6 +26,8 @@ class User extends Authenticatable implements LdapAuthenticatable
         'password',
     ];
 
+    //here
+
     /**
      * The attributes that should be hidden for serialization.
      *
